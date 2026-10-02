@@ -1,0 +1,11 @@
+
+# Local/private files
+__pycache__/
+.pytest_cache/
+tmp_uploads/
+generated/
+*.zip
+*.db
+.env
+.venv/
+venv/
